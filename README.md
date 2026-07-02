@@ -17,3 +17,7 @@ python main.py
 ## Pourquoi ce projet
 
 Premier projet pour découvrir Python et les interfaces graphiques (Tkinter).
+
+## Contact
+
+Discord : v5w5
