@@ -16,4 +16,4 @@ python main.py
 
 ## Pourquoi ce projet
 
-Premier projet pour découvrir Python et les interfaces graphiques (Tkinter), dans le cadre de ma préparation à l'option NSI.
+Premier projet pour découvrir Python et les interfaces graphiques (Tkinter).
